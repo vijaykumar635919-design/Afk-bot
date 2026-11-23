@@ -2,7 +2,7 @@ const mineflayer = require('mineflayer')
 
 function createBot() {
   const bot = mineflayer.createBot({
-    host: 'TOR-SERVER-IP', // ekhane tor Aternos IP dibi
+    host: Itachi6663.aternos.me
     port: 25565,
     username: 'TorNam_Bot',
     version: '1.20.1'
